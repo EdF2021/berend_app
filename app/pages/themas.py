@@ -1,0 +1,6 @@
+prompt = """
+Geef eerst de titels van de 8 Thema's uit het ingelezen bestand. Wacht nog even met laten zien maar zet de 8 titels in een lijst : LIJST =[ {"Thema 1": {{Titel thema 1}}, "Thema2": {{Titel thema 2}},  "Thema3": {{Titel thema 3}}, "Thema 4": {{Titel thema 4}}, "Thema5": {{Titel thema 5}},  "Thema 6": {{Titel thema 6}}, "Thema 7": {{Titel thema 7}}, "Thema8":  {{Titel thema 8} } ]
+
+Schrijf nu puntsgewijs de titels uit {{LIJST}}""" 
+
+# en schrijf daar ook puntsgewijs de 4 lessen bij die bij elk thema horen. """ 

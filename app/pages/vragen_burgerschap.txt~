@@ -1,0 +1,13 @@
+prompt = """
+Geef eerst de  8 Thema's uit de handleiding.
+Geef dan voor Thema 1 tot en met Thema 8 voor elke Thema apart de 5 lessen die bij elk Thema hoort. In het voorbeeld laat ik zien hoe ik het wil. Gebruik  het markdown formaat voor de presentatie. 
+"""Voorbeeld:
+### {Titel van Thema 1):
+1. {titel van les 1}   
+2. {titel van les 2} 
+3. {titel van les 3}
+4. {titel van les 4}
+5. {ltitel van les 5}
+
+Doe dit voor alle thema's
+""" 
